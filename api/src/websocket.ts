@@ -91,7 +91,7 @@ const startWebsocket = (server: Server): void => {
       socketId,
       status: 'auth',
       nickname,
-      message: 'Seja bem-vindo',
+      message: 'Welcome',
     });
     notifyUsersOnline(users, { message: `${nickname} is online` });
 

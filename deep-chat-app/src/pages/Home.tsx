@@ -86,7 +86,7 @@ const Home = ({ navigation }: Props): ReactElement => {
       >
         <Container marginX={10} marginY={20}>
           <Heading>
-            Bem-vindo ao
+            Welcome to
             {' '}
           </Heading>
           <Heading color="emerald.400">
@@ -108,7 +108,7 @@ const Home = ({ navigation }: Props): ReactElement => {
                   roundedRight="md"
                   onPress={handleLogin}
                 >
-                  <Text fontSize="lg">Entrar</Text>
+                  <Text fontSize="lg">Sign in</Text>
                 </Button>
               )}
               onChangeText={(value) => setNickname(value)}

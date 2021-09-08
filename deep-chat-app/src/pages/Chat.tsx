@@ -173,7 +173,7 @@ const Chat = ({ navigation, route }: Props): ReactElement => {
                 <Icon as={<MaterialIcons name="send" />} size="sm" color="white" />
               </Button>
             )}
-            placeholder="Digite uma mensagem"
+            placeholder="Enter your message"
           />
         </Box>
       </KeyboardAvoidingView>

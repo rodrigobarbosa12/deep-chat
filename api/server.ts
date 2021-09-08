@@ -1,3 +1,3 @@
 import server from './app';
 
-server.listen('3334', () => console.log('[->] servidor rodando na porta 3334'));
+server.listen('3334', () => console.log('[->] Server running on port 3334'));
