@@ -5,14 +5,25 @@
   DEEP CHAT
 </h1>
 
+<h1 align="center">
+    <p>
+      <img src="deep-chat-app/assets/to-headme/splash.png" width="200" title="Splash">
+      <img src="deep-chat-app/assets/to-headme/login.png" width="200" title="Splash">
+      <img src="deep-chat-app/assets/to-headme/chat.png" width="200" title="Splash">
+    </p>
+</h1>
+
+<p align="center">
+  <img alt="Licence" src="https://img.shields.io/github/license/rodrigobarbosa12/deep-chat">
+  <img alt="Node version" src="https://img.shields.io/badge/Node-v16.7.0-green">
+</p>
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-bibliotecas">Bibliotecas</a>
 </p>
-
 
 ## 🚀 Tecnologias
 
@@ -52,8 +63,6 @@ No link abaixo você encontra o layout do projeto mobile.
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Eslint](https://www.npmjs.com/package/eslint)
-
-## 🧩 Instalação
 
 
 ## Autor
